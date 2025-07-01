@@ -1,4 +1,7 @@
 # Electric Vehicle Data Analytics Dashboard – 2025
+![Screenshot (108)](https://github.com/user-attachments/assets/373a8ba4-abca-4c95-9574-2fe044e326cd)
+
+![Screenshot (94)](https://github.com/user-attachments/assets/7b4c8bcd-49fc-4b4b-aeca-4dc6a6e16f00)
 
 ## Full Project: From Raw CSV → SQL EDA → Power BI Business Insights
 
@@ -58,35 +61,30 @@ Visuals: Scatter plots, bar charts, donut charts, and detailed tables
 1. Average Range by Segment
 High-end classes (Luxury, Executive) offer ~550–600 km on average
 
-📌 Insert image here – horizontal bar chart of range by segment
+![average range by segment](https://github.com/user-attachments/assets/f818e5de-373d-4e6f-a128-aba617b12910)
 
-2. Battery Size vs Range
+
+3. Battery Size vs Range
 Most efficient EVs squeeze 6–8 km per kWh; larger batteries don’t always mean proportionally longer range
 
-📌 Insert image here – detailed scatter plot with trend line
+![range by battery size](https://github.com/user-attachments/assets/9324c76c-1961-4fed-924e-24a14ae5c35f)
 
-3. Energy Efficiency by Drivetrain
+
+5. Energy Efficiency by Drivetrain
 AWD consumes the most; FWD and RWD are more balanced for city/commuter EVs
 
-📌 Insert image here – donut chart by drivetrain
+![most energy efficien drivetrains](https://github.com/user-attachments/assets/b84394e8-0a8d-4f41-9804-a6e2e6dc6993)
 
-4. Brand Dominance
+
+7. Brand Dominance
 Mercedes-Benz leads the market with 40+ distinct EV models
 
-📌 Insert image here – brand distribution bar chart
+![brand dominating ev market](https://github.com/user-attachments/assets/8248568d-8ea3-40ac-bf60-2e06ea630722)
 
-5. Road-Trip Ready Models
-Filtered EVs with:
-– battery ≥ 80 kWh
-– fast charging ≥ 150 kW
-Ideal for long-distance driving
-
-📌 Insert image here – table of road-trip ready models
 
 6. Family SUVs with Max Cargo Space
 EVs best suited for families with 5+ seats and large cargo areas
-
-📌 Insert image here – cargo space table of SUVs
+![largest cargo suv](https://github.com/user-attachments/assets/c737e31b-2ef0-4f1f-9b17-6bfa208d247a)
 
 
 # Summary of Key Insights
